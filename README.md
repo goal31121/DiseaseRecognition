@@ -4,8 +4,7 @@
 
 > An AI-powered web application that helps users understand possible health issues from medical images using the Google Gemini API.
 
-> [!WARNING]
-> **Disclaimer:** This tool is for **educational and informational purposes only**. Always consult a qualified doctor before making any medical decisions.
+
 
 ---
 
